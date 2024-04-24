@@ -1,0 +1,1 @@
+This is c++ snake, written with plain cpp and no external library aside from window.h and conio.h, which are used for aethethic and user input(very helpful, using the window library, we can bypass having to draw the stuff over and over again)
