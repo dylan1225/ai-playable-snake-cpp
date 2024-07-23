@@ -28,6 +28,9 @@ char delay = 'f';
 
 typedef pair<int,int> pi; 
 #define MP(A,B) make_pair(A,B)
+#define PB(T) push_back(T)
+#define vi vector<int> 
+#define pi pair<int,int>
 
 struct status{
     bool go_up;
